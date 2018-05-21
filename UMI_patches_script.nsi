@@ -1,4 +1,4 @@
-OutFile "Pages installer.exe"
+OutFile "Mblock patch.exe"
 
 Page license
 #Page components
